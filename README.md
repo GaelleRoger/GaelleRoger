@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Salut, je suis [Votre Nom] !
 
-<!--
-**GaelleRoger/GaelleRoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Mes Statistiques GitHub
 
-Here are some ideas to get you started:
+<!-- Remplacez 'votre-username' par votre vrai nom d'utilisateur GitHub ! -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Carte stats globales — Awesome GitHub Stats (hébergé sur Azure, actif) -->
+<!-- cardType au choix : level | level-alternate | github | octocat -->
+[![Mes Stats](https://awesome-github-stats.azurewebsites.net/user-stats/votre-username?cardType=level&theme=tokyonight)](https://git.io/awesome-stats-card)
+
+<!-- Streak de contributions — streak-stats.demolab.com (actif) -->
+![Streak Stats](https://streak-stats.demolab.com/?user=votre-username&theme=tokyonight)
+
+<!-- Graphe d'activité — github-readme-activity-graph (actif) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=votre-username&theme=github-compact)
+
